@@ -4,7 +4,7 @@
 
 In the early years of my career, I started as an Android Developer, using Java. Due to my eagerness to grow, I left my comfort zone to embrace new challenges. Along the way, I fell in love with working with Python and Javascript. However, I'm happy to use whatever tools are needed for the job.
 
-Besides coding, I love reading personal development books, bonding with my three dogs and three cats at home, and unwinding through immersive video games.
+Besides coding, I love reading personal development books, bonding with my three dogs and three cats at home, watching anime, and unwinding through immersive video games.
 
 ---
 
