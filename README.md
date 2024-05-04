@@ -30,7 +30,7 @@ Besides coding, I love reading personal development books, bonding with my three
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamdeterminedd&theme=black-ice)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamdeterminedd&theme=black-ice&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats-dusky-kappa-17.vercel.app/api/top-langs/?username=iamdeterminedd&layout=compact&bg_color=151515&text_color=ffffff&langs_count=8)
 <!--
