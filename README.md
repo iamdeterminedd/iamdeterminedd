@@ -2,7 +2,7 @@
 
 #### About me
 
-In the early years of my career, I started as an Android Developer, using Java. Due to my eagerness to grow, I left my comfort zone to embrace new challenges. I explored and expanded my skillsets to different realms of Web development. Along the way, I added new tools under my belt, such as Python and Javascript. As my curiosity grew, my habit of learning new things continued.
+In the early years of my career, I started as an Android Developer, comfortably working with Java. Due to my eagerness to grow, I left my comfort zone to embrace new challenges. As I explored unfamiliar realms of software development, I found new tools to add to my belt, such as Python and Javascript. As my curiosity and passion grew, I continued to gain knowledge and experience with every project I undertook, finding new things to learn and lessons from my previous mistakes.
 
 Besides coding, I love reading personal development books, bonding with my three dogs and three cats at home, watching anime, and unwinding through immersive video games.
 
