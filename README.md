@@ -6,7 +6,7 @@ In the early years of my career, I started as an Android Developer. Due to my ea
 
 As I explored unfamiliar realms of web development, I utilized my skill in Java to adapt to a new environment and picked up new tools to add to my belt, such as Python and Javascript.
 
-As my curiosity and passion grew, I continued to gain knowledge and experience with every project I undertook, discovering new things to learn and lessons from my previous mistakes.
+As my curiosity and passion grew, I continued to gain knowledge and experience with every project I undertook, discovering new things to learn.
 
 Besides coding, I love reading personal development books, jamming to the beat of music, bonding with my three dogs and three cats at home, watching anime, and even watching kdrama. Lastly, I enjoy unwinding through immersive video games. :)
 
