@@ -2,13 +2,11 @@
 
 #### About me
 
-In the early years of my career, I started as an Android Developer, comfortably working with Java.
+In the early years of my career, I started as an Android Developer. Due to my eagerness to grow, I left my comfort zone to embrace new challenges.
 
-Due to my eagerness to grow, I left my comfort zone to embrace new challenges.
+As I explored unfamiliar realms of web development, I utilized my skill in Java to adapt to a new environment and picked up new tools to add to my belt, such as Python and Javascript.
 
-As I explored unfamiliar realms of web development, I found new tools to add to my belt, such as Python and Javascript.
-
-As my curiosity and passion grew, I continued to gain knowledge and experience with every project I undertook, finding new things to learn and lessons from my previous mistakes.
+As my curiosity and passion grew, I continued to gain knowledge and experience with every project I undertook, discovering new things to learn and lessons from my previous mistakes.
 
 Besides coding, I love reading personal development books, jamming to the beat of music, bonding with my three dogs and three cats at home, watching anime, and even watching kdrama. Lastly, I enjoy unwinding through immersive video games. :)
 
@@ -16,13 +14,13 @@ Besides coding, I love reading personal development books, jamming to the beat o
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
