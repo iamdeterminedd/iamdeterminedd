@@ -8,7 +8,7 @@ As I explored unfamiliar realms of web development, I utilized my skill in Java 
 
 As my curiosity and passion grew, I continued to gain knowledge and experience with every project I undertook, discovering new things to learn.
 
-Besides coding, I love reading personal development books, jamming to the beat of music, bonding with my three dogs and three cats at home, watching anime, and even watching kdrama. Lastly, I enjoy unwinding through immersive video games. :)
+Besides coding, I love reading personal development books, jamming to the beat of music, bonding with my dogs and cats at home, watching anime, and even watching kdrama. Lastly, I enjoy unwinding through immersive video games. :)
 
 ---
 
@@ -20,7 +20,7 @@ Besides coding, I love reading personal development books, jamming to the beat o
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
