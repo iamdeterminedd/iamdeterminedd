@@ -2,9 +2,9 @@
 
 #### About me
 
-In the early years of my career, I started as an Android Developer.
+In the early years of my career, I started as an Android Developer. Due to my eagerness to grow, I left my comfort zone.
 
-Due to my curiosity and eagerness to grow, I stepped out of my comfort zone to embrace new environments and challenges. Laravel and PHP are my buddies, along with JavaScript, helping me get things done at work.
+With my knowledge and skills in Java, my first programming language, I used it to learn new tools and adapt to new environments. As a Backend Developer, I work with PHP, Laravel, and JavaScript to get things done.
 
 Besides coding, I love reading personal development books, jamming to music, bonding with my dogs and cats at home, watching anime, and even K-dramas. Lastly, I enjoy unwinding with immersive video games. :)
 
