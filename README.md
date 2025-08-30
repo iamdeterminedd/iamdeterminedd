@@ -2,11 +2,15 @@
 
 #### About me
 
-In the early years of my career, I started as an Android Developer. Due to my eagerness to grow, I left my comfort zone.
+In the past, I built software that lives right in our most beloved device, the smartphone. I developed Android apps designed to fit seamlessly into people’s daily lives, focusing on interactions that feel natural and intuitive. With just a tap of a button, users can experience something meaningful at their fingertips.
 
-With my knowledge and skills in Java, my first programming language, I used it to learn new tools and adapt to new environments. As a Backend Developer, I work with PHP, Laravel, and JavaScript to get things done.
+Out of curiosity, I stepped out of my comfort zone to explore the unknown realms of web development.
 
-Besides coding, I love reading personal development books, jamming to music, bonding with my dogs and cats at home, watching anime, and even K-dramas. Lastly, I enjoy unwinding with immersive video games. :)
+I never imagined that I would enjoy working with storing, retrieving, and organizing data as much as I do today as a backend developer. As my knowledge deepens, building secure and high-performance backend systems has become one of my main goals. I want every project I contribute to be reliable and meet the needs of its users.
+
+My determination drives me to thrive on solving complex problems, turning ideas into practical solutions, and collaborating with my teammates while making sure we have fun along the way.
+
+Besides coding, I love reading personal development books, jamming to music, bonding with my dogs and cats, watching anime, and even catching up on K-dramas. When I need to unwind, I enjoy diving into immersive video games. 😁
 
 ---
 
