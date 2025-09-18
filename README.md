@@ -2,15 +2,9 @@
 
 #### About me
 
-In the past, I built software that lives right in our most beloved device, the smartphone. I developed Android apps designed to fit seamlessly into people’s daily lives, focusing on interactions that feel natural and intuitive. With just a tap of a button, users can experience something meaningful at their fingertips.
+I started out building Android apps that blended naturally into people’s daily lives, then curiosity led me to web development. That’s where I found my passion for backend work—designing secure, reliable systems that make everything run smoothly behind the scenes. I love tackling complex problems, turning ideas into real solutions, and collaborating with teammates while keeping things fun.
 
-Out of curiosity, I stepped out of my comfort zone to explore the unknown realms of web development.
-
-I never imagined that I would enjoy working with storing, retrieving, and organizing data as much as I do today as a backend developer. As my knowledge deepens, building secure and high-performance backend systems has become one of my main goals. I want every project I contribute to be reliable and meet the needs of its users.
-
-My determination drives me to thrive on solving complex problems, turning ideas into practical solutions, and collaborating with my teammates while making sure we have fun along the way.
-
-Besides coding, I love reading personal development books, jamming to music, bonding with my dogs and cats, watching anime, and even catching up on K-dramas. When I need to unwind, I enjoy diving into immersive video games. 😁
+Outside of coding, you’ll usually find me reading personal growth books, vibing to music, watching anime or K-dramas, gaming, or hanging out with my dogs and cats. 😁
 
 ---
 
