@@ -1,7 +1,5 @@
 ### Hi, I'm Jim 👋
 
-#### About me
-
 My journey started with building Android apps, but my curiosity pushed me to try more than mobile. I moved into web development, first making simple front-end designs, then exploring the back-end—the part that makes websites come alive. The things that once scared me are now the things I enjoy the most. What used to hold me back is what helped me grow and step out of my comfort zone as a developer. 🚀
 
 #### 🌱 Outside of coding, you’ll usually find me:  
@@ -11,8 +9,7 @@ My journey started with building Android apps, but my curiosity pushed me to try
 - 🎮 Gaming  
 - 🐶🐱 Hanging out with my dogs and cats  
 
----
-
+<!--
 #### :hammer_and_wrench: Skillsets :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;&nbsp;
@@ -26,6 +23,7 @@ My journey started with building Android apps, but my curiosity pushed me to try
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+  -->
 
   
     
@@ -43,7 +41,6 @@ My journey started with building Android apps, but my curiosity pushed me to try
 </div>
 -->
 
----
 <!--
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamdeterminedd&theme=black-ice&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
