@@ -1,6 +1,6 @@
 ### Hi, I'm Jim 👋
 
-My journey started with building Android apps, but my curiosity pushed me to try more than mobile. I moved into web development, first making simple front-end designs, then exploring the back-end—the part that makes websites come alive. The things that once scared me are now the things I enjoy the most. What used to hold me back is what helped me grow and step out of my comfort zone as a developer. 🚀
+My journey started with building Android apps, but my curiosity didn’t let me stop there. I wanted to try more than just mobile, so I started creating simple front-end designs and eventually found myself exploring the backend — the part that makes websites come alive. Along the way, I kept learning new things and pushing my limits. The things that once scared me have become the things I enjoy the most. What used to hold me back ended up helping me grow and step out of my comfort zone as a developer. 🚀
 
 #### 🌱 Outside of coding, you’ll usually find me:  
 - 📚 Reading personal growth books  
